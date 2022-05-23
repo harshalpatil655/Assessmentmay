@@ -1,0 +1,16 @@
+[
+    {
+        "image":"assets/restaurant1.jpeg",
+        "name":"Chaitanya Parathas",
+        "category":[
+            "North India",
+            "Punjabi",
+            "Chinese",
+            "Thalies Combos",
+            "Beverages"],
+            "rating":"4.3",
+            "deliveryTimings":"33 MINS",
+            "costForTwo":"200",
+            "offers":["20% off","Use TRYNEW"]
+    }
+]
